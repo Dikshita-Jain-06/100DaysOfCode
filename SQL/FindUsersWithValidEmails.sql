@@ -1,0 +1,1 @@
+select * from Users where mail REGEXP '^[a-zA-Z][a-zA-Z0-9_.-]*@leetcode\\.com$' AND mail like BINARY '%@leetcode.com';
