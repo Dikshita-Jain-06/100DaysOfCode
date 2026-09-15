@@ -21,7 +21,7 @@
 // 1 ≤ Original Amount ≤ 1000000 
 
 import java.util.*;
-public class ques25 {
+public class ques1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int org = sc.nextInt();
