@@ -1,4 +1,4 @@
-package Programming_Abstraction_Using_Java;
+package Programming_Abstraction_Using_Java.short_5_Marks;
 import java.util.*;
 import java.util.stream.*;
 public class ques26 {
