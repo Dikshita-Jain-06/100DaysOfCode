@@ -1,3 +1,4 @@
+package Programming_Abstraction_Using_Java.short_5_Marks;
 // Problem Statement
 // Given N integers, write a Java program using the Stream API and Optional to find the maximum value safely. If the list is not empty, print the maximum in the format Max: value. Use Optional with reduce and orElse so the program never fails on missing values.
 // Input Format

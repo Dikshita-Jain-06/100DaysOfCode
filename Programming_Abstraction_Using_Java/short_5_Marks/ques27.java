@@ -1,3 +1,4 @@
+package Programming_Abstraction_Using_Java.short_5_Marks;
 
 // Problem Statement
 // Write a Java program that uses multithreading to compute the sum of N integers. Split the array into two halves, create two threads (using Runnable) where each thread computes the sum of one half, wait for both threads to finish using join(), and then print the combined total.
