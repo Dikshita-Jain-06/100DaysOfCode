@@ -47,7 +47,7 @@ public class ques10 {
             t2.join();
         }
         catch(InterruptedException e){
-            e.printStack
+            e.printStackTrace();
         }
         System.out.println("Final counter: "+counter);
         sc.close();
