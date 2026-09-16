@@ -67,7 +67,7 @@ public class ques28 {
             int deptId = sc.nextInt();
             String deptName = sc.next();
             boolean found = false;
-            for(int j=0;j<n;j++){
+            for(int j=0;j<unique;j++){
                 if(id[j]==currentId){
                     found=true;
                     break;
