@@ -36,7 +36,7 @@ public class ques56 {
         Scanner sc = new Scanner(System.in);
         int attempts = sc.nextInt();
         System.out.println("Communication Started");
-        for(int i=1;i<=attemps;i++){
+        for(int i=1;i<=attempts;i++){
             if(i<attempts){
                 System.out.println("Retrying");
             }
